@@ -1,5 +1,5 @@
 @echo off
-color 9
+color a
 
 @reg delete "HKEY_CURRENT_USER\Software\Microsoft\IdentityCRL" /f
 @reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OneSettings\xbox" /f
